@@ -9,6 +9,7 @@ public class UseCompany {
 		System.out.println("Emp Name:"+company.getEmployee().getName());
 		System.out.println("Salary:"+company.getEmployee().getSalary());
 		System.out.println("Company Name:"+company.getName());
+		System.out.println("Simbu");
 	}
 
 }
